@@ -1,0 +1,377 @@
+{
+  "aangeboden_sinds": [
+    "verkoopgeschiedenis_aangeboden_sinds",
+    "verhuurgeschiedenis_aangeboden_sinds",
+    "overdracht_aangeboden_sinds"
+  ],
+  "aantal_badkamers": [
+    "indeling_aantal_badkamers"
+  ],
+  "aantal_kamers": [
+    "indeling_aantal_kamers"
+  ],
+  "aantal_slaapkamers": [
+    "indeling_aantal_slaapkamers"
+  ],
+  "aantal_woonlagen": [
+    "indeling_aantal_woonlagen"
+  ],
+  "achtertuin_afmeting": [
+    "buitenruimte_achtertuin_afmeting"
+  ],
+  "achtertuin_oppervlakte": [
+    "buitenruimte_achtertuin_oppervlakte"
+  ],
+  "adres": [
+    "address_zip_code",
+    "address_street_number",
+    "address_street_number_ext"
+  ],
+  "badkamervoorzieningen": [
+    "indeling_badkamervoorzieningen"
+  ],
+  "balkon_dakterras": [
+    "buitenruimte_balkon_dakterras"
+  ],
+  "bedrijfsruimte_indicator": [
+    "bedrijfsruimte_bedrijfsruimte"
+  ],
+  "bedrijfsruimte_informatie": [
+    "bedrijfsruimte_bedrijfsruimte_info"
+  ],
+  "bedrijfsruimte_oppervlakte": [
+    "bedrijfsruimte_bedrijfsruimte_oppervlakte"
+  ],
+  "bergruimte_isolatie": [
+    "bergruimte_isolatie"
+  ],
+  "bergruimte_schuur": [
+    "bergruimte_schuur_berging"
+  ],
+  "bergruimte_voorzieningen": [
+    "bergruimte_voorzieningen"
+  ],
+  "beschrijving": [
+    "description"
+  ],
+  "bouw_specifiek": [
+    "bouw_specifiek"
+  ],
+  "bouwjaar": [
+    "bouw_bouwjaar"
+  ],
+  "bouwperiode": [
+    "bouw_bouwperiode"
+  ],
+  "bouwsoort": [
+    "bouw_soort_bouw"
+  ],
+  "buitenplaats_afmeting": [
+    "buitenruimte_plaats_afmeting"
+  ],
+  "buitenplaats_oppervlakte": [
+    "buitenruimte_plaats_oppervlakte"
+  ],
+  "buitenruimte_ligging": [
+    "buitenruimte_ligging"
+  ],
+  "buitenruimte_ligging_tuin": [
+    "buitenruimte_ligging_tuin"
+  ],
+  "cv_ketel": [
+    "energie_cv-ketel"
+  ],
+  "data_id": [
+    "source_data_result_id"
+  ],
+  "data_timestamp": [
+    "source_data_timestamp"
+  ],
+  "date_of_operation": [
+    "source_data_timestamp"
+  ],
+  "date_of_transaction_start": [
+    "overdracht_aangeboden_sinds"
+  ],
+  "energielabel": [
+    "energie_energielabel"
+  ],
+  "foto's": [
+    "images"
+  ],
+  "garage_capaciteit": [
+    "garage_capaciteit"
+  ],
+  "garage_isolatie": [
+    "garage_isolatie"
+  ],
+  "garage_voorzieningen": [
+    "garage_voorzieningen"
+  ],
+  "gelegen_op": [
+    "indeling_gelegen_op"
+  ],
+  "history_aangeboden_sinds": [
+    "overdracht_aangeboden_sinds"
+  ],
+  "history_looptijd": [
+    "verkoopgeschiedenis_looptijd",
+    "verhuurgeschiedenis_looptijd"
+  ],
+  "history_verhuurdatum": [
+    "verhuurgeschiedenis_verhuurdatum"
+  ],
+  "history_verkoopdatum": [
+    "verkoopgeschiedenis_verkoopdatum"
+  ],
+  "huisnummer": [
+    "address_street_number"
+  ],
+  "huisnummer_toevoeging": [
+    "address_street_number_ext"
+  ],
+  "huur_koop_status": [
+    "overdracht_status"
+  ],
+  "huurovereenkomst": [
+    "overdracht_huurovereenkomst"
+  ],
+  "huurprijs": [
+    "overdracht_huurprijs"
+  ],
+  "huurtermijn": [
+    "overdracht_huurtermijn"
+  ],
+  "indeling_afmetingen": [
+    "indeling_afmetingen"
+  ],
+  "indeling_capaciteit": [
+    "indeling_capaciteit"
+  ],
+  "indeling_oppervlakte": [
+    "oppervlakten_en_inhoud_woonoppervlakte"
+  ],
+  "indeling_perceeloppervlakte": [
+    "indeling_perceeloppervlakte"
+  ],
+  "indeling_voorzieningen": [
+    "indeling_voorzieningen"
+  ],
+  "inhoud": [
+    "oppervlakten_en_inhoud_inhoud"
+  ],
+  "inschrijving_kvk": [
+    "vve_checklist_inschrijving_kvk"
+  ],
+  "isolatie": [
+    "bouw_isolatie"
+  ],
+  "jaarlijkse_vergadering": [
+    "vve_checklist_jaarlijkse_vergadering"
+  ],
+  "kantoorruimte_indicator": [
+    "bedrijfsruimte_kantoorruimte"
+  ],
+  "kantoorruimte_informatie": [
+    "bedrijfsruimte_kantoorruimte_info"
+  ],
+  "kantoorruimte_oppervlakte": [
+    "bedrijfsruimte_kantoorruimte_oppervlakte"
+  ],
+  "keurmerken": [
+    "bouw_keurmerken"
+  ],
+  "koopmengvorm": [
+    "overdracht_koopmengvorm"
+  ],
+  "makelaar": [
+    "realtor_name"
+  ],
+  "makelaarsvereniging": [
+    "realtor_vereniging"
+  ],
+  "onderhoudsplan": [
+    "vve_checklist_onderhoudsplan"
+  ],
+  "oorspronkelijke_huurprijs": [
+    "overdracht_huurprijs"
+  ],
+  "oorspronkelijke_vraagprijs": [
+    "overdracht_oorspronkelijke_vraagprijs"
+  ],
+  "oppervlakte_externe_bergruimte": [
+    "oppervlakten_en_inhoud_externe_bergruimte"
+  ],
+  "oppervlakte_gebouwgebonden_bergruimte": [
+    "oppervlakten_en_inhoud_gebouwgebonden_buitenruimte"
+  ],
+  "oppervlakte_overige_inpandige_ruimte": [
+    "oppervlakten_en_inhoud_overige_inpandige_ruimte"
+  ],
+  "opstalverzekering": [
+    "vve_checklist_opstalverzekering"
+  ],
+  "overdracht_bijdrage_vve": [
+    "overdracht_bijdrage_vve"
+  ],
+  "overdracht_laatste_huurprijs": [
+    "overdracht_laatste_huurprijs"
+  ],
+  "overdracht_laatste_vraagprijs": [
+    "overdracht_laatste_vraagprijs"
+  ],
+  "overdracht_servicekosten": [
+    "overdracht_servicekosten"
+  ],
+  "overdracht_status": [
+    "overdracht_status"
+  ],
+  "overdrachtaanvaarding": [
+    "overdracht_aanvaarding"
+  ],
+  "parkeergelegenheid_soort_parkeergelegenheid": [
+    "parkeergelegenheid_soort_parkeergelegenheid"
+  ],
+  "patrio_atrium_afmeting": [
+    "buitenruimte_patio_atrium_afmeting"
+  ],
+  "patrio_atrium_oppervlakte": [
+    "buitenruimte_patio_atrium_oppervlakte"
+  ],
+  "perceeloppervlakte": [
+    "oppervlakten_en_inhoud_perceeloppervlakte"
+  ],
+  "periodieke_bijdrage": [
+    "vve_checklist_periodieke_bijdrade"
+  ],
+  "postcode": [
+    "address_zip_code"
+  ],
+  "postcode_cijfer": [
+    "address_zip_number"
+  ],
+  "postcode_letters": [
+    "address_zip_letter"
+  ],
+  "praktijkruimte_indicator": [
+    "bedrijfsruimte_praktijkruimte"
+  ],
+  "praktijkruimte_informatie": [
+    "bedrijfsruimte_praktijkruimte_info"
+  ],
+  "praktijkruimte_oppervlakte": [
+    "bedrijfsruimte_praktijkruimte_oppervlakte"
+  ],
+  "reservefonds_aanwezig": [
+    "vve_checklist_reservefonds_aanwezig"
+  ],
+  "soort_appartement": [
+    "bouw_soort_appartement"
+  ],
+  "soort_dak": [
+    "bouw_soort_dak"
+  ],
+  "soort_garage": [
+    "garage_soort_garage"
+  ],
+  "soort_object": [
+    "bouw_soort_object"
+  ],
+  "soort_overig_aanbod": [
+    "bouw_soort_overig_aanbod"
+  ],
+  "soort_parkeergelegenheid": [
+    "bouw_soort_parkeergelegenheid"
+  ],
+  "soort_veiling": [
+    "veiling_soort_veiling"
+  ],
+  "soort_woonhuis": [
+    "bouw_soort_woonhuis"
+  ],
+  "stad": [
+    "address_city"
+  ],
+  "streetname": [
+    "address_street_name"
+  ],
+  "telefoonnummer_makelaar": [
+    "realtor_phone"
+  ],
+  "toegankelijkheid": [
+    "bouw_toegankelijkheid"
+  ],
+  "tuin": [
+    "buitenruimte_tuin"
+  ],
+  "type": [
+    "bouw_soort_woonhuis",
+    "bouw_soort_appartement",
+    "bouw_soort_overig_aanbod",
+    "bouw_soort_parkeergelegenheid"
+  ],
+  "url": [
+    "source_data_url"
+  ],
+  "veilingdatum": [
+    "veiling_veilingdatum"
+  ],
+  "veilingpartij": [
+    "veiling_veilingpartij"
+  ],
+  "veilingperiode": [
+    "veiling_veilingperiode"
+  ],
+  "verwarming": [
+    "energie_verwarming"
+  ],
+  "voorlopig_energielabel": [
+    "energie_toekomstig_energielabel"
+  ],
+  "voortuin_afmeting": [
+    "buitenruimte_voortuin_afmeting"
+  ],
+  "voortuin_oppervlakte": [
+    "buitenruimte_voortuin_oppervlakte"
+  ],
+  "vraagprijs": [
+    "overdracht_oorspronkelijke_vraagprijs",
+    "overdracht_vraagprijs"
+  ],
+  "vraagprijstype": [
+    "overdracht_vraagprijs_prijstype"
+  ],
+  "waarborgsom": [
+    "overdracht_waarborgsom"
+  ],
+  "warm_water": [
+    "energie_warm_water"
+  ],
+  "winkelruimte_indicator": [
+    "bedrijfsruimte_winkelruimte"
+  ],
+  "winkelruimte_informatie": [
+    "bedrijfsruimte_winkelruimte_info"
+  ],
+  "winkelruimte_oppervlakte": [
+    "bedrijfsruimte_winkelruimte_oppervlakte"
+  ],
+  "woonoppervlakte": [
+    "oppervlakten_en_inhoud_woonoppervlakte"
+  ],
+  "zijtuin_afmeting": [
+    "buitenruimte_zijtuin_afmeting"
+  ],
+  "zijtuin_oppervlakte": [
+    "buitenruimte_zijtuin_oppervlakte"
+  ],
+  "zonneterras_afmeting": [
+    "buitenruimte_zonneterras_afmeting"
+  ],
+  "zonneterras_oppervlakte": [
+    "buitenruimte_zonneterras_oppervlakte"
+  ],
+  "_id.$oid": [
+    "_id.$oid"
+  ]
+}
