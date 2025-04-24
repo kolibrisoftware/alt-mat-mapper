@@ -8,8 +8,8 @@ st.set_page_config(page_title="Dataset Mapper", layout="wide")
 st.title("🧬 Dataset Matrixian to Altum Mapper")
 
 # Default file paths
-default_a_path = "data/altum_80_recent.json"
-default_b_path = "data/matrixian_80_recent.json"
+default_a_path = "data/altum_filtered.json"
+default_b_path = "data/matrixian_filtered.json"
 mapping_folder = "mappings"
 os.makedirs(mapping_folder, exist_ok=True)
 
