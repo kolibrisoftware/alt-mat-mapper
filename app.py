@@ -94,7 +94,7 @@ for col in df_a.columns:
 
 # --- Preview Table ---
 if mapping:
-    st.subheader("🔍 Preview Comparison (First 30 Rows)")
+    st.subheader("🔍 Preview Comparison (First 100 Rows)")
 
     preview = pd.DataFrame()
     min_len = min(len(df_a), len(df_b))
@@ -130,7 +130,7 @@ if mapping:
     if preview.empty:
         st.warning("⚠️ All preview columns are empty. Try adjusting the mappings or uploading different files.")
     else:
-        st.dataframe(preview.head(400), use_container_width=True, height=800)
+        st.dataframe(preview.head(100), use_container_width=True, height=800)
 
     # --- Download/Save Mapping ---
     st.download_button(
