@@ -74,6 +74,10 @@ st.subheader("📋 Map Dataset A Fields to Dataset B (multi-select allowed with 
 mapping = {}
 
 for col in df_a.columns:
+    
+    if col == "_id":
+        continue  # Skip mapping for the _id field
+    
     default_b_cols = loaded_mapping.get(col)
     if not default_b_cols:
         if col in df_b.columns:
